@@ -1,0 +1,23 @@
+.login-form-app-container {
+  min-height: 100vh;
+  background-color: #183b56;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form-main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}

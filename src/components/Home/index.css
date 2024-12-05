@@ -1,0 +1,12 @@
+.home-app-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #183b56;
+  min-height: 100vh;
+}
+
+.nav-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
